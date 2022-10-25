@@ -43,10 +43,6 @@
 </div>
 <br>
 
-[![@sauravkumar8178's Holopin board](https://holopin.io/api/user/board?user=sauravkumar8178)](https://holopin.io/@sauravkumar8178)
-
-<br>
-
 # Working hard to become a Full-Stack Blockchain Developer  
 
 ### Blockchain Development (Ethereum decentralized applications)
