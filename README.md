@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HR_Recuiter System**
 
-- 🌱 I’m currently learning *Web3 Development**
+- 🌱 I’m currently learning **Web3 Development**
 
 - 👯 I’m looking to collaborate on **Blockchain Dev. Work**
 
