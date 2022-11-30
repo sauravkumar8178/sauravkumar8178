@@ -43,6 +43,8 @@
 
 ### Blockchain Development (Ethereum decentralized applications)
 
+<img align="right" alt="WEB3" src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif" width="600">
+
 - Solidity
 - Truffle
 - Ganache
@@ -53,7 +55,7 @@
 - Waffle
 - Mocha
 - Chai
-- Go-Ethereum(Setting up Private Blockchain Network)
+- Go-Ethereum
+  (Setting up Private Blockchain Network)
 - ERC721(NFT)
 
-<img align="center" alt="WEB3" src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif">
