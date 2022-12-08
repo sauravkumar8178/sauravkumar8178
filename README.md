@@ -20,8 +20,8 @@
 
 
 <br />
+<br />
 <h3 align="left">Languages and Tools:</h3>
-
 <div style="display:inline_block" align="center">
     <img src="https://cdn.iconscout.com/icon/free/png-128/html-3628838-3030115.png" alt="HTML" width="60" height="60">
     <img src="https://cdn.iconscout.com/icon/free/png-256/css-alt-3628710-3029935.png" alt="CSS" width="60" height="60">
