@@ -5,7 +5,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **HR_Recuiter System**
+- 🔭 I’m currently working on **Location Finder**
 
 - 🌱 I’m currently learning **Web3 Development**
 
