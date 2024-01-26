@@ -13,9 +13,9 @@
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/sauravkumar8178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravkumar8178" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sauravkumar8178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sauravkumar8178/" height="40" width="50" /></a>
-<a href="https://discord.gg/#7178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7178" height="40" width="50" /></a>
+<a href="https://twitter.com/sauravkumar8178" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="sauravkumar8178" height="35" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sauravkumar8178/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.linkedin.com/in/sauravkumar8178/" height="35"/></a>
+<a href="https://discord.gg/#7178" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="#7178" height="35"/></a>
 </p>
 
 <br/>
