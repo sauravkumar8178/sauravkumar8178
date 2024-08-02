@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently working at a startup company as a **software developer**.
 
-- 🌱 I’m currently learning **Web3 Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I'm actively seeking opportunities to collaborate on thrilling **open-source projects** such as GSoC – let's innovate together!    
+- 👯 I'm actively seeking opportunities to collaborate on thrilling open-source projects and learn new technologies – let's innovate together! 
 
 - 📫 How to reach me **ss989108@gmail.com**
 <br/>
